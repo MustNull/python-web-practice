@@ -1,0 +1,6 @@
+.vscode/
+.env/
+tmp/
+*.pyc
+.local.*
+activate.bat
